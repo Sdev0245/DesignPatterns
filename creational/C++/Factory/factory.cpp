@@ -61,7 +61,7 @@ AbstractButton* clientCreator(string button){
 int main() {
 
     AbstractButton *button = clientCreator("mac");
-
     button->click();
+    
     return 0;
 }
