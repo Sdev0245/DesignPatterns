@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.go": "go",
+        "algorithm": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
