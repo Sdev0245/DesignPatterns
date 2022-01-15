@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.go": "go",
+        "vector": "cpp",
+        "iostream": "cpp"
+    }
+}
